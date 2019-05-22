@@ -6,3 +6,6 @@
 
 * Lisa samale liidesele vastav teine klass, kus andmeid hoitakse muul moel
   (nt. failis, ühemõõtmelises massiivis, kahemõõtmelises massiivis, PHP/Node abil veebifailina)
+
+
+LINK: https://github.com/erkkisula/k06testtrips
